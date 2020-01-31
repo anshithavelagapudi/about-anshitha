@@ -1,11 +1,16 @@
 # about-anshitha
+
 About-me
 
 ## Repository Link
+
 - [Source repository](https://github.com/anshithavelagapudi/about-anshitha)
 - [Hosted Page](https://anshithavelagapudi.github.io/about-anshitha/)
+
 ## About this Repository
+
 We have lot of tools that can be used to create a repo in easy way and also can get more knowledge by creating this kind of repositories.
+
 ## Recommended Tools
 
 I have used the following tools till now to create web pages.
@@ -16,6 +21,7 @@ I have used the following tools till now to create web pages.
 5. [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
 
 ## Recommended Resources
+
 - [Geeksforgeeks](https://www.geeksforgeeks.org/begin-web-development-with-a-head-start/)
 - [TutorialsPoint](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
 - [W3 Schools](https://www.w3schools.com/whatis/)
