@@ -29,7 +29,7 @@ function tri(x,y){
     const j = parseInt(document.querySelector('#SecondInput').value)
     console.log('j=' + j)
     const ct = origCount + 1
-    const ans = ` Total space required is ${tri(i, j)} and This has been run ${ct} times.`
+    const ans = ` Area of triangle is ${tri(i, j)} and this has been run ${ct} times.`
     document.querySelector('#result').innerHTML = ans
     localStorage.setItem('countOfClicks', ct)  // define a string key to store + its value
     localStorage.setItem('firstInput', i)
